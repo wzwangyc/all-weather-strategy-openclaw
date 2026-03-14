@@ -1,3 +1,4 @@
+![All Weather Strategy Logo](resources/logo.png)
 # All Weather Strategy - OpenClaw Professional Skill
 
 Developed by **wzwangyc**, this skill brings common-sense risk-parity asset allocation to the OpenClaw AI environment. It is designed to be highly interactive and beginner-friendly while providing professional-grade financial analysis.
